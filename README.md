@@ -1,16 +1,59 @@
-### Hi there 👋
+## 我是小琼,希望成为一个有趣的程序猿
 
-<!--
-**objectjhon/objectjhon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 关于我 🤪
 
-Here are some ideas to get you started:
+- <a href="https://www.nuist.edu.cn/"><code><img height="30" src="https://chongyandocs-1304373775.cos.ap-nanjing.myqcloud.com/chongyandocs/NUIST.ico" alt="NUIST"/></code></a>南京信息工程大学软件工程专业研零在读
+- 目前的方向是大数据开发和深度学习
+- 喜欢鼓捣一些新技术,写过前端,写过后端,研究过云原生以及边缘计算
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 开发过的一些项目 🎉
+
+<div>
+<a  href="https://github.com/ChongYanOvO/akka-spark">
+  <img align="center" src="https://chongyan-github-readme-stats-5tsvxypir-chongyanovo.vercel.app/api/pin/?username=ChongYanOvO&repo=akka-spark" alt="ChongYanOvO"/>
+</a>
+<a  href="https://github.com/ChongYanOvO/Recruitment-Analysis-Spark">
+  <img align="center" src="https://chongyan-github-readme-stats-5tsvxypir-chongyanovo.vercel.app/api/pin/?username=ChongYanOvO&repo=Recruitment-Analysis-Spark" alt="ChongYanOvO"/>
+</a>
+</div>
+
+
+### Languages
+
+<div>
+<code ><a href="https://www.java.com/" target="_blank" rel="noreferrer"><img height="40" src="https://chongyandocs-1304373775.cos.ap-nanjing.myqcloud.com/chongyandocs/java.svg" alt="java" /></a></code>
+<code ><a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"><img height="40" src="https://chongyandocs-1304373775.cos.ap-nanjing.myqcloud.com/chongyandocs/scala.svg" alt="scala" /></a></code>
+<code><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img height="40" src="https://chongyandocs-1304373775.cos.ap-nanjing.myqcloud.com/chongyandocs/python.svg" alt="python" /></a></code>
+<code><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img height="40" src="https://chongyandocs-1304373775.cos.ap-nanjing.myqcloud.com/chongyandocs/c.svg" alt="c" /></a></code>
+<code><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img height="40" src="https://chongyandocs-1304373775.cos.ap-nanjing.myqcloud.com/chongyandocs/sql.svg" alt="sql" /></a></code>
+<a href="https://github.com/ChongYanOvO">
+  <img align="right" src="https://chongyan-github-readme-stats-5tsvxypir-chongyanovo.vercel.app/api/top-langs?username=ChongYanOvO" alt="ChongYanOvO"/>
+</a>
+</div>
+
+
+### Frameworks 
+
+<div>
+<code><a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"><img height="40" src="https://chongyandocs-1304373775.cos.ap-nanjing.myqcloud.com/chongyandocs/hadoop.png" alt="hadoop" /></a></code>
+<code><a href="https://hive.apache.org/" target="_blank" rel="noreferrer"><img height="40" src="https://chongyandocs-1304373775.cos.ap-nanjing.myqcloud.com/chongyandocs/hive.svg" alt="hive" /></a></code>
+<code><a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img height="40" src="https://chongyandocs-1304373775.cos.ap-nanjing.myqcloud.com/chongyandocs/spark.ico" alt="spark" /></a></code>
+<code><a href="https://spring.io/" target="_blank" rel="noreferrer"><img height="40" src="https://chongyandocs-1304373775.cos.ap-nanjing.myqcloud.com/chongyandocs/springboot.svg" alt="springboot" /></a></code>
+<code><a href="https://baomidou.com/" target="_blank" rel="noreferrer"><img height="40" src="https://chongyandocs-1304373775.cos.ap-nanjing.myqcloud.com/chongyandocs/mybatisplus.svg" alt="mybatisplus" /></a></code>
+<code><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img height="40" src="https://chongyandocs-1304373775.cos.ap-nanjing.myqcloud.com/chongyandocs/vue.svg" alt="vue" /></a></code>
+</div>
+
+
+### Tools 
+
+<div>
+<code><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img height="40" src="https://chongyandocs-1304373775.cos.ap-nanjing.myqcloud.com/chongyandocs/linux.svg" alt="linux" /></a></code>
+<code><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img height="40" src="https://chongyandocs-1304373775.cos.ap-nanjing.myqcloud.com/chongyandocs/mysql.svg" alt="mysql" /></a></code>
+<code><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img height="40" src="https://chongyandocs-1304373775.cos.ap-nanjing.myqcloud.com/chongyandocs/docker.svg" alt="docker" /></a></code>
+<code><a href="https://redis.io/" target="_blank" rel="noreferrer"><img height="40" src="https://chongyandocs-1304373775.cos.ap-nanjing.myqcloud.com/chongyandocs/redis.png" alt="redis" /></a></code>
+<code><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img height="40" src="https://chongyandocs-1304373775.cos.ap-nanjing.myqcloud.com/chongyandocs/git.svg" alt="git" /></a></code>
+<code><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img height="40" src="https://chongyandocs-1304373775.cos.ap-nanjing.myqcloud.com/chongyandocs/kubernetes.svg" alt="kubernetes" /></a></code>
+</div>
+
+
+
