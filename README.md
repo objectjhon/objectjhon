@@ -9,11 +9,8 @@
 ### 开发过的一些项目 🎉
 
 <div>
-<a  href="https://github.com/ChongYanOvO/akka-spark">
-  <img align="center" src="https://chongyan-github-readme-stats-5tsvxypir-chongyanovo.vercel.app/api/pin/?username=ChongYanOvO&repo=akka-spark" alt="ChongYanOvO"/>
-</a>
-<a  href="https://github.com/ChongYanOvO/Recruitment-Analysis-Spark">
-  <img align="center" src="https://chongyan-github-readme-stats-5tsvxypir-chongyanovo.vercel.app/api/pin/?username=ChongYanOvO&repo=Recruitment-Analysis-Spark" alt="ChongYanOvO"/>
+<a  href="https://github.com/objectjhon/RecruitmentAnalysis">
+  RecruitmentAnalysis
 </a>
 </div>
 
