@@ -6,7 +6,7 @@
 - 目前的方向是大数据开发和深度学习
 - 喜欢鼓捣一些新技术,写过前端,写过后端,研究过云原生以及边缘计算
 
-![](https://github-readme-stats.vercel.app/api?username=objectjhone&show_icons=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=objectjhon&show_icons=true&theme=transparent)
 
 
 ### 开发过的一些项目 🎉
