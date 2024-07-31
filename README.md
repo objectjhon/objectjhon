@@ -2,8 +2,8 @@
 
 ### 关于我 🤪
 
-- <a href="https://www.nuist.edu.cn/"><code><img height="30" src="https://chongyandocs-1304373775.cos.ap-nanjing.myqcloud.com/chongyandocs/NUIST.ico" alt="NUIST"/></code></a>南京信息工程大学软件工程专业研零在读
-- 目前的方向是大数据开发和深度学习
+- <a href="https://www.nuist.edu.cn/"><code><img height="30" src="https://chongyandocs-1304373775.cos.ap-nanjing.myqcloud.com/chongyandocs/NUIST.ico" alt="NUIST"/></code></a>南京信息工程大学软件工程专业研0在读
+- 目前的方向是深度学习和气象分析
 - 喜欢鼓捣一些新技术,写过前端,写过后端,研究过云原生以及边缘计算
 
 ![](https://github-readme-stats.vercel.app/api?username=objectjhon&show_icons=true&theme=transparent)
@@ -21,7 +21,7 @@
 ### Languages
 
 <div>
-<code ><a href="https://www.java.com/" target="_blank" rel="noreferrer"><img height="40" src="https://chongyandocs-1304373775.cos.ap-nanjing.myqcloud.com/chongyandocs/java.svg" alt="java" /></a></code>
+<code ><a href="https://www.java.com/" target="_blank" rel="noreferrer"><img height="40" src="https://gimg3.baidu.com/search/src=http%3A%2F%2Fgi…sec=1722531600&t=59e762f448daf0db5f4a1debad75fbf8" alt="java" /></a></code>
 <code ><a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"><img height="40" src="https://chongyandocs-1304373775.cos.ap-nanjing.myqcloud.com/chongyandocs/scala.svg" alt="scala" /></a></code>
 <code><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img height="40" src="https://chongyandocs-1304373775.cos.ap-nanjing.myqcloud.com/chongyandocs/python.svg" alt="python" /></a></code>
 <code><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img height="40" src="https://chongyandocs-1304373775.cos.ap-nanjing.myqcloud.com/chongyandocs/c.svg" alt="c" /></a></code>
