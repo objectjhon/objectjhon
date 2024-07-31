@@ -21,7 +21,7 @@
 ### Languages
 
 <div>
-<code ><a href="https://www.java.com/" target="_blank" rel="noreferrer"><img height="40" src="https://gimg3.baidu.com/search/src=http%3A%2F%2Fgi…sec=1722531600&t=59e762f448daf0db5f4a1debad75fbf8" alt="java" /></a></code>
+<code ><a href="https://www.java.com/" target="_blank" rel="noreferrer"><img height="40" src="https://gimg3.baidu.com/search/src=http%3A%2F%2Fgips1.baidu.com%2Fit%2Fu%3D346830734%2C528019925%26fm%3D3030%26app%3D3030%26f%3DJPEG%3Fw%3D200%26h%3D133%26s%3D05F26C32C7A1490152F021DE030050B2&refer=http%3A%2F%2Fwww.baidu.com&app=2021&size=f242,150&n=0&g=0n&q=100&fmt=auto?sec=1722531600&t=59e762f448daf0db5f4a1debad75fbf8" alt="java" /></a></code>
 <code ><a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"><img height="40" src="https://chongyandocs-1304373775.cos.ap-nanjing.myqcloud.com/chongyandocs/scala.svg" alt="scala" /></a></code>
 <code><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img height="40" src="https://chongyandocs-1304373775.cos.ap-nanjing.myqcloud.com/chongyandocs/python.svg" alt="python" /></a></code>
 <code><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img height="40" src="https://chongyandocs-1304373775.cos.ap-nanjing.myqcloud.com/chongyandocs/c.svg" alt="c" /></a></code>
