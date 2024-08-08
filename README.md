@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api?username=objectjhon&show_icons=true&theme=merko](https://github-profile-trophy.vercel.app/?username=objectjhon&theme=onedark&title=-Stars,-Followers,-Issues,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=objectjhon&show_icons=true&theme=merko&title=-Stars,-Followers,-Issues,-Reviews" />
 </p>
 
 <p align="center">
