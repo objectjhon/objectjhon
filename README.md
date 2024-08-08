@@ -6,7 +6,7 @@
 - 目前的方向是深度学习和气象分析
 - 喜欢鼓捣一些新技术,写过前端,写过后端,研究过云原生以及边缘计算
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=objectjhon&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=objectjhon&count_private=true&show_icons=true&theme=merko)
 
 
 ### 开发过的一些项目 🎉
