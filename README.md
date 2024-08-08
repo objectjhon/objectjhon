@@ -1,3 +1,10 @@
+<p align="center">
+  <img width="140" src="https://chongyandocs-1304373775.cos.ap-nanjing.myqcloud.com/chongyandocs/NUIST.ico" />
+  <h2 align="center">小琼</h2>
+  <p align="center">明德格物，立己达人</p>
+</p>
+
+
 ## 我是小琼,希望成为一个有趣的程序猿 🐒
 
 ### 关于我 👻
@@ -6,7 +13,7 @@
 - 目前的方向是深度学习和气象分析
 - 喜欢鼓捣一些新技术,写过前端,写过后端,研究过云原生以及边缘计算
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=objectjhon&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=objectjhon&theme=onedark&title=-Stars,-Followers,-Issues,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=objectjhon&show_icons=true&theme=merko)
 
