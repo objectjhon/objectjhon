@@ -8,6 +8,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=objectjhon&show_icons=true&theme=merko)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=objectjhon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### 开发过的一些项目 🎉
 
