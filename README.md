@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="140" src="https://raw.githubusercontent.com/objectjhon/PicGoImages/master/A4A6E0085C91AD1B4866A1695EECE3BA.png" />
+  <img width="140" src="https://raw.githubusercontent.com/objectjhon/PicGoImages/master/R-C.png" />
   <h2 align="center">小琼</h2>
   <p align="center">明德格物，立己达人</p>
 </p>
