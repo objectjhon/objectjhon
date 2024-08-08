@@ -1,6 +1,6 @@
 ## 我是小琼,希望成为一个有趣的程序猿 🐒
 
-### 关于我 🤪
+### 关于我 🤪🤡
 
 - <a href="https://www.nuist.edu.cn/"><code><img height="30" src="https://chongyandocs-1304373775.cos.ap-nanjing.myqcloud.com/chongyandocs/NUIST.ico" alt="NUIST"/></code></a>南京信息工程大学软件工程专业研0在读
 - 目前的方向是深度学习和气象分析
