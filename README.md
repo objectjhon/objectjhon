@@ -59,10 +59,11 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
 </p>
 
-### 关于我 👻
+<h3>关于我 👻</h3>
+<li><a href="https://www.nuist.edu.cn/"><code><img height="30" src="https://raw.githubusercontent.com/objectjhon/PicGoImages/master/微信图片_20240808165743.jpg" alt="NUIST"/></code></a>南京信息工程大学软件工程专业研0在读</li>
+<li>目前的方向是深度学习和气象分析</li>
+<li>喜欢鼓捣一些新技术,写过前端,写过后端,研究过云原生以及边缘计算</li>
 
-- <a href="https://www.nuist.edu.cn/"><code><img height="30" src="https://raw.githubusercontent.com/objectjhon/PicGoImages/master/微信图片_20240808165743.jpg" alt="NUIST"/></code></a>南京信息工程大学软件工程专业研0在读
-- 目前的方向是深度学习和气象分析
-- 喜欢鼓捣一些新技术,写过前端,写过后端,研究过云原生以及边缘计算
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=objectjhon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=objectjhon&layout=normal" />
+</p>
