@@ -4,6 +4,10 @@
   <p align="center">明德格物，立己达人</p>
 </p>
 
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=objectjhon&show_icons=true&theme=merko" />
+</p>
+
 
 ## 我是小琼,希望成为一个有趣的程序猿 🐒
 
@@ -15,7 +19,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=objectjhon&theme=onedark&title=-Stars,-Followers,-Issues,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=objectjhon&show_icons=true&theme=merko)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=objectjhon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
